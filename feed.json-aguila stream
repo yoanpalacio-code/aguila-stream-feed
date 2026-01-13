@@ -1,0 +1,46 @@
+{
+  "provider": "Aguila Stream",
+  "updated": "2026-01-12T00:00:00Z",
+  "categories": [
+    {
+      "id": "live_es",
+      "name": "Live TV - Spanish",
+      "channels": [
+        {
+          "id": "es_demo_01",
+          "name": "Spanish Demo Channel",
+          "logo": "https://via.placeholder.com/300x300.png?text=Spanish+TV",
+          "stream": {
+            "type": "HLS",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_en",
+      "name": "Live TV - English",
+      "channels": []
+    },
+    {
+      "id": "live_int",
+      "name": "Live TV - International",
+      "channels": []
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "channels": []
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "channels": []
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "channels": []
+    }
+  ]
+}
