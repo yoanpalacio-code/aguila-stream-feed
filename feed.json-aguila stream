@@ -20,7 +20,17 @@
     {
       "id": "live_en",
       "name": "Live TV - English",
-      "channels": []
+      "channels": [
+        {
+          "id": "en_demo_01",
+          "name": "English Demo Channel",
+          "logo": "https://raw.githubusercontent.com/yoanpalacio-code/aguila-stream-feed/main/logos/spanish_tv.png",
+          "stream": {
+            "type": "HLS",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        }
+      ]
     },
     {
       "id": "live_int",
@@ -30,12 +40,32 @@
     {
       "id": "sports",
       "name": "Sports",
-      "channels": []
+      "channels": [
+        {
+          "id": "sports_demo_01",
+          "name": "Sports Demo Channel",
+          "logo": "https://raw.githubusercontent.com/yoanpalacio-code/aguila-stream-feed/main/logos/spanish_tv.png",
+          "stream": {
+            "type": "HLS",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        }
+      ]
     },
     {
       "id": "movies",
       "name": "Movies",
-      "channels": []
+      "channels": [
+        {
+          "id": "movies_demo_01",
+          "name": "Movies Demo Channel",
+          "logo": "https://raw.githubusercontent.com/yoanpalacio-code/aguila-stream-feed/main/logos/spanish_tv.png",
+          "stream": {
+            "type": "HLS",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        }
+      ]
     },
     {
       "id": "series",
