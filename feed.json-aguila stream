@@ -9,7 +9,7 @@
         {
           "id": "es_demo_01",
           "name": "Spanish Demo Channel",
-          "logo": "https://via.placeholder.com/300x300.png?text=Spanish+TV",
+          "logo": "https://raw.githubusercontent.com/yoanpalacio-code/aguila-stream-feed/main/logos/spanish_tv.png",
           "stream": {
             "type": "HLS",
             "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
